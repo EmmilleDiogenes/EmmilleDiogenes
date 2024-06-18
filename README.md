@@ -1,3 +1,15 @@
-<h2>Sejam Bem-Vindos</h2>
+<h1 align="center">
+	Sejam bem-vindos!
+</h1>
 
-<h3>Eu me chamo Emmille Diogenes </h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+	  <img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Emmille+Diogenes;Sou+formada+em+ADS;Aluna+do+curso+FullStack+Developer+da+IWTraining.&center=true&width=780&height=45">
+  </a>
+</p>
+
+<hr />
+
+
+
+
